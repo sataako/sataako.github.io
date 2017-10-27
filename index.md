@@ -1,6 +1,4 @@
-# Sataako?
-[Sataako-logo](https://raw.githubusercontent.com/sataako/sataako.github.io/master/images/umbrella-580061.svg?sanitize=true)
-
+# Sataako?<img src="https://raw.githubusercontent.com/sataako/sataako.github.io/master/images/umbrella-580061.svg?sanitize=true" width="50px" />
 The Sataako? -service issues warnings to users of when it will rain at their location within the next hour in the Helsinki metropolitan area. Users can currently access the service via a Telegram bot; other clients like mobile apps can be created by utilising the open API of the fmio-server. The service uses optic flow to interpolate the movement of precipitation systems during the next 60 minutes based on data gathered through FMI open data.
 
 ## Example
