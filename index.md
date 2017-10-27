@@ -20,4 +20,4 @@ The list of recent radar images is queried from the FMI Web Feature Service (WFS
 ## Communication of results
 The warnings will be issued as Telegram messages, using Telegram bot API. The user will be informed if there is a risk of rain within the next 60 minutes. The warnings also give information about the estimated precipitation accumulation during the forecast period. User can view animation of weather maps in the Southern Finland and forecasts of rain movement.
 
-<video controls><source src=http://techslides.com/demos/sample-videos/small.mp4 type=video/mp4></video>
+<video width="222" controls=""><source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4"></video>
