@@ -1,4 +1,4 @@
-# Sataako?<img src="https://raw.githubusercontent.com/sataako/sataako.github.io/master/images/umbrella-580061.svg?sanitize=true" width="50px" />
+# Sataako?<img src="https://raw.githubusercontent.com/sataako/sataako.github.io/master/images/umbrella-580061.svg?sanitize=true" width="50" />
 The Finnish weather is known for its variability, and is rightfully one of the most common topics of smalltalk. Often in everyday life, you find yourself wondering “will it rain?” (“Sataako?” in Finnish). Should you take the bike or the tram. Many professionals, like farmers, also strongly rely on this information.
 
 The Sataako? -service issues warnings to users of when it will rain at their location within the next hour in Southern Finland. Users can currently access the service via a Telegram bot; other clients like mobile apps can be created by utilising the open API of the data server of the service, titled fmio-server. The service uses a motion algorithm to forecast the movement of precipitation systems during the next 60 minutes based on weather radar data gathered through FMI open data.
